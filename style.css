@@ -24,8 +24,6 @@ h4 {
   margin-right: 5%;
   padding: 10px 30px;
   background-color: whitesmoke;
-  position: static;
-  z-index: 9999;
 }
 .navbar ul {
   list-style-type: none;
@@ -53,7 +51,7 @@ h4 {
 }
 .link_button {
   text-decoration: none;
-  background-image: linear-gradient(rgb(233, 23, 180), red);
+  background-image: linear-gradient(rgb(255, 0, 191), red);
   padding: 10px 40px;
   border-radius: 20px;
   color: white;
@@ -96,6 +94,8 @@ section {
   margin-right: 7%;
   box-shadow: 10px 10px 40px rgba(204, 204, 204, 0.637);
   border-radius: 30px;
+ 
+ 
 }
 .reach {
   margin-left: 10%;
